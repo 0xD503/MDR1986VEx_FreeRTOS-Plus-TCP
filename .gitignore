@@ -1,0 +1,13 @@
+*.html
+*~
+*#
+
+# IAR
+**/settings/*.crun
+**/settings/*.dbgdt
+**/settings/*.cspy
+**/settings/*.cspy.*
+**/settings/*.xcl
+**/settings/*.dni
+**/settings/*.wsdt
+**/settings/*.wspos
